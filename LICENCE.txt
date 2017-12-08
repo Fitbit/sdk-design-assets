@@ -1,0 +1,49 @@
+Design Asset License
+
+Your use of the accompanying icons, images, and fonts (the “Design Assets”) made
+available for download by Fitbit, Inc. (“Fitbit”) is governed by this Design
+Asset License (“License”). If you do not agree to all the terms and conditions
+in this License then you may not use the Design Assets for any purpose.
+
+Fitbit grants you a limited, non-exclusive, non-transferable, royalty-free,
+worldwide license to use the Design Assets only in connection with developing
+and testing applications or clock faces, including any companion, that are
+intended for use solely on Fitbit health and fitness devices (“Developer
+Applications”). Fitbit does not grant you a license to use the Design Assets for
+any other purpose, such as marketing or promoting your Developer Application.
+Your use of the Design Assets for marketing or promotion is conditioned upon
+your acceptance of Fitbit App Distribution Agreement.
+
+As between us, Fitbit shall remain the exclusive owner of all rights in the
+Design Assets and your use of the Design Assets exclusively inures to the
+benefit of Fitbit.
+
+THE DESIGN ASSETS ARE PROVIDED TO YOU ON AN “AS IS” BASIS AND YOU ARE SOLELY
+RESPONSIBLE FOR YOUR USE OF THE DESIGN ASSETS. FITBIT DISCLAIMS ALL WARRANTIES
+REGARDING THE DESIGN ASSETS, INCLUDING WARRANTIES OF NON-INFRINGEMENT. FITBIT
+SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL
+OR PUNITIVE DAMAGES ARISING FROM OR RELATED TO YOUR USE OF THE DESIGN ASSETS, OR
+TERMINATION OF THIS AGREEMENT.
+
+You will defend, indemnify and hold harmless Fitbit against all losses,
+liability, and/or expense (including reasonable legal fees) arising out of any
+claims or suits, whatever their nature and however arising, which may be brought
+or made against Fitbit because of your use of the Design Assets in any manner
+except as expressly permitted by this License, or for any personal injury,
+product liability or other claim arising from the production, promotion,
+distribution, sale and/or offer for sale, and/or the performance of the
+Developer Applications.
+
+This agreement shall terminate automatically upon your breach of any of the
+terms of this License or the Fitbit Platform Terms of Service. Fitbit may
+terminate this License for any reason upon 15 days’ notice to your developer
+account.
+
+This Agreement shall be governed by the laws of the State of California without
+regard to or application of choice of law rules or principles, and controlling
+U.S. federal law. Any proceedings arising out of this Agreement shall take place
+in the United States District Court for the Northern District of California or
+the California Superior Court for the County of Santa Clara. If any provision of
+this Agreement is held by a court of competent jurisdiction to be contrary to
+law, all remaining provisions of this license will remain in full force and
+effect.
